@@ -1,0 +1,5 @@
+#Ignore text files
+.txt
+
+#Temp executable file
+a.out
